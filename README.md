@@ -3,7 +3,7 @@ ProyectoFinal_JavaScript
 
 Nombre: Alexandra Mendoza
 
-Index.html: Se muestran los productos ofrecidos, se extraen del archivo json.
+Index.html: Se muestran los productos ofrecidos, se extraen del archivo productos.js.
 
 compra.html: Muestra la vista para procesar la compra de los productos, agregando nombres y correo electrónico.
 
